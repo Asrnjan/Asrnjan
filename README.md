@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Asrnjan
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning Mlops
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ashishranjan.4217@gmail.com
 
 <!---
