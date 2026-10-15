@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ashish Ranjan 👋</h1>
-<h3 align="center">Anthropic Practice Lead @ PROLIM · Industrial AI, IoT & Enterprise Delivery</h3>
+<h3 align="center">Anthropic Practice Lead · Industrial AI, IoT & Enterprise Delivery</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude-AI%20Practice-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -56,7 +56,7 @@ I lead the Anthropic practice at **PROLIM Global Corporation**, where I run mult
 ## 📫 Connect
 
 <p>
-  <a href="mailto:ashish.ranjan@prolim.com"><img src="https://img.shields.io/badge/Email-ashish.ranjan%40prolim.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ashishranjan.4217@gmail.com"><img src="https://img.shields.io/badge/Email-ashish.ranjan%40prolim.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.prolim.com"><img src="https://img.shields.io/badge/PROLIM-Website-1F4E79?style=flat-square" /></a>
 </p>
 
